@@ -132,6 +132,7 @@ const technologies = [
   { name: "Odin", released: new Date("2016-07-07"), link: "https://odin.handmade.network/" },
   { name: "OpenGL", released: new Date("1992-06-30"), link: "https://www.opengl.org/" },
   { name: "OpenStack", released: new Date("2010-10-21"), icon: "openstack", link: "https://www.openstack.org/" },
+  { name: "Oracle", released: new Date("1979-01-01"), link: "https://en.wikipedia.org/wiki/Oracle_Database/" },
   { name: "pandas", released: new Date("2008-02-11"), link: "https://pandas.pydata.org/" },
   { name: "Perl", released: new Date("1987-12-18"), link: "https://www.perl.org/" },
   { name: "Phalcon", released: new Date("2012-11-14") },
